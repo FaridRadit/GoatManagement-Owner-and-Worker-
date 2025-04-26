@@ -1,0 +1,33 @@
+name: mitrakambing2
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.5
+  sqflite: ^2.3.0
+  path_provider: ^2.0.7
+  get: ^4.6.5
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mk.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/mk.png"
