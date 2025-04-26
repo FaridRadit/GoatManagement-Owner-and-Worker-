@@ -15,14 +15,6 @@ The app allows farmers and caretakers to monitor important goat data such as the
 
 ---
 
-## 🚀 Demo
-
-Here’s a sneak peek of how the app works:
-
-![Goat Monitoring Demo](https://via.placeholder.com/800x400.png?text=App+Demo)  
-_Your interactive demo image or GIF goes here_
-
----
 
 ## 📦 Installation
 
